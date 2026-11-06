@@ -1,0 +1,4 @@
+/target/
+
+# Local SQLite database
+/books.sqlite
